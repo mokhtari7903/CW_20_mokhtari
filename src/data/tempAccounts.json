@@ -1,0 +1,39 @@
+{
+  "accountList":[
+    {
+      "id":152,
+      "userId":3,
+      "walletId":1,
+      "balance":3650,
+      "recentTransaction":1659592712,
+      "accountNumber":1554187
+    },
+
+    {
+      "id":243,
+      "userId":2,
+      "walletId":2,
+      "balance":47900,
+      "recentTransaction":1659572522,
+      "accountNumber":19679232
+    },
+
+    {
+      "id":364,
+      "userId":5,
+      "walletId":3,
+      "balance":6520000,
+      "recentTransaction":1659392522,
+      "accountNumber":238017377
+    },
+
+    {
+      "id":475,
+      "userId":8,
+      "walletId":4,
+      "balance":12500,
+      "recentTransaction":1659392422,
+      "accountNumber":279325522
+    }
+  ]
+}

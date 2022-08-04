@@ -1,0 +1,35 @@
+{
+  "walletList":[
+    {
+      "id":1,
+      "userId":3,
+      "accountId":152,
+      "balance":52000,
+      "recentTransaction":1659592722
+    },
+
+    {
+      "id":2,
+      "userId":2,
+      "accountId":243,
+      "balance":2000,
+      "recentTransaction":1659592522
+    },
+
+    {
+      "id":3,
+      "userId":5,
+      "accountId":364,
+      "balance":652000,
+      "recentTransaction":1659392722
+    },
+
+    {
+      "id":4,
+      "userId":8,
+      "accountId":475,
+      "balance":0,
+      "recentTransaction":null
+    }
+  ]
+}
